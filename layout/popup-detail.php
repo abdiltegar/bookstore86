@@ -2,7 +2,7 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
         <div class="modal-header">
-            <h5 class="modal-title" id="modalDetailBukuTitle">Detail Buku</h5>
+            <h6 class="modal-title" id="modalDetailBukuTitle">Detail Buku</h6>
             <button type="button" class="close btn btn-sm btn-default" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
             </button>
@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <center>
-                        <img src="images/books.png" alt="" class="logo"><b> &nbsp; Bookstore 86</b>
+                        <img src="images/books.png" alt="" class="logo"><b> &nbsp; BookStore 86</b>
                     </center>
                     <br>
                 </div>

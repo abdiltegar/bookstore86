@@ -7,7 +7,7 @@ include 'layout/popup-delete.php';
 <center>
     <img src="images/books.png" alt="" class="logo">
     <br>
-    <h5 class="text-white"> &nbsp; Bookstore 86</h5>
+    <h5 class="text-white"> &nbsp; BookStore 86</h5>
     <br>
 </center>
 <div class="row">

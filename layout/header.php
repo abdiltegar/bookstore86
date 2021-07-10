@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="css/style.css">
     <script src="js/jquery.js"></script>
-    <title>Bookstore</title>
+    <title>BookStore86</title>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light" id="navbar">
